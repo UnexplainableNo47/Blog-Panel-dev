@@ -26,9 +26,7 @@
     border: 1px solid #000;
 }
 .hero{
-    background-image: url(/illustration-article.svg);
-    background-position: center;
-    background-repeat: no-repeat;
+    background-image: url(illustration-article.svg);
     height: 194px;
     width:auto;
     border-radius: 10px;
